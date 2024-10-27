@@ -1,7 +1,7 @@
 # Automated Electronic Component Tester Simulator
 
 ## Overview
-This C# project simulates an automated testing system for electronic components, demonstrating key concepts in test automation and software development for electronic testing equipment. It's designed to showcase programming skills relevant to Teradyne's product support and test engineering roles.
+This C# project simulates an automated testing system for electronic components, demonstrating key concepts in test automation and software development for electronic testing equipment. 
 
 ## Features
 - Simulates testing of various electronic components (resistors, capacitors, inductors, transistors)
